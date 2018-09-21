@@ -1,0 +1,33 @@
+_repo: Ludwig-Richter-Ein-deutscher-Maler-und-Hausfreund-Seine-Lebensgeschichte-fur-Jung-und-Alt-erz__54071
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Richter, Ludwig
+    alias: Richter, Adrian Ludwig
+    birthdate: 1803
+    deathdate: 1884
+    gutenberg_agent_id: '47693'
+    url: http://www.gutenberg.org/2009/agents/47693
+creator:
+  author:
+    agent_name: Ninck, Johannes
+    birthdate: 1863
+    gutenberg_agent_id: '47692'
+    url: http://www.gutenberg.org/2009/agents/47692
+description: ''
+gutenberg_issued: '2017-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54071'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Richter, Ludwig, 1803-1884'
+- GITenberg
+title: 'Ludwig Richter. Ein deutscher Maler und Hausfreund.
+
+  Seine Lebensgeschichte für Jung und Alt erzählt'
+url: http://www.gutenberg.org/ebooks/54071
